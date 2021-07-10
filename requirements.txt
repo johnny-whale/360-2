@@ -1,0 +1,6 @@
+Django
+django-import_export
+djangorestframework
+django-filter
+djangorestframework-word-filter
+django-cors-headers
